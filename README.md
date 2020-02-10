@@ -1,13 +1,13 @@
 # UFOs
 ## UFO Sightings
 ## The Truth Is Out There
-UFO Sightings: Fact of Fancy? Ufologists Weigh In
+UFO Sightings: Fact or Fancy? Ufologists Weigh In
 
 ## Background
 Using **webpage, JavaScript, dynamic tables, bootstrap, css, function arrow**. 
 
 ## Objectives
-This webesite will show all recent sightings, filtering on user input for:
+This website will show all recent sightings, filtering on user input for:
     1. Date
     2. City
     3. State
@@ -17,7 +17,7 @@ This webesite will show all recent sightings, filtering on user input for:
 ## README.md
 **_https://github.com/juan-mpn/UFOs_**
 
-## Apps and JavaScript
+## App - JavaScript
 **App**
 **_https://github.com/juan-mpn/UFOs/blob/master/js/app.js_**
 
